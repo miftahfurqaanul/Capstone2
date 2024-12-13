@@ -76,5 +76,5 @@ Permintaan layanan taksi cenderung meningkat pada hari kerja dan mencapai puncak
 ## 6. Contact
 - Name: Miftah Furqaanul Haq
 - Email: miftahfh.01@gmail.com
-- Linkedin:
+- Linkedin: miftah furqaanul haq
 - link tableau : https://public.tableau.com/views/ds1_17332411473120/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
